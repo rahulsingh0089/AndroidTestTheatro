@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidTestTheatro</string>
+    <string name="seach_hint">Search Movie</string>
+</resources>
